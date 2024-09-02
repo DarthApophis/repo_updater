@@ -1,0 +1,2 @@
+include repo_updater/*.json
+include *.txt

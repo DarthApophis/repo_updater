@@ -1,0 +1,15 @@
+{
+  "repo_location": "",
+  "checkout_branch": "devel",
+  "setup_options": "",
+  "receiver_teams_webhook": "",
+  "smtp_server" : "smtp.mailersend.net",
+  "smtp_port": "587",
+  "receiver_email_list": [
+
+  ],
+  "sender_email": "",
+  "user_name": "",
+  "user_password": "",
+  "polling_period": 10
+}
