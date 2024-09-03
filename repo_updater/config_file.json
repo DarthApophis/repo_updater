@@ -2,6 +2,7 @@
   "repo_location": "",
   "checkout_branch": "devel",
   "setup_options": "",
+  "install_options": "",
   "receiver_teams_webhook": "",
   "smtp_server" : "smtp.mailersend.net",
   "smtp_port": "587",
